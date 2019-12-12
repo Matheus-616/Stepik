@@ -1,3 +1,3 @@
-# Hello-word
-Well, 
-  My name is Siqueira, I am a physhic student of USP and I am trying to learn computation. 
+# Problemas do Stepik
+	Esse repositório contém a resolução das questões do Stepik feitas por mim no ano de 2019
+
