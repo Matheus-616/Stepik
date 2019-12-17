@@ -1,3 +1,2 @@
 # Problemas do Stepik
-	Esse repositório contém a resolução das questões do Stepik feitas por mim no ano de 2019
-
+	Repositório contendo as resoluções da listas online do Stepik da disciplina de programação do ano de 2019.
