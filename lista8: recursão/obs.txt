@@ -1,0 +1,5 @@
+OBS: Como o conteúdo dessa lista é recursão, nos exercícios dela, a não ser que seja explicitado o contrário, as resoluções apenas conterão as funções pedidas, tendo em vista que o restante do programa estava na própria plataforma do Stepik.
+
+OBS2: A questão 5 eu aindan não consegui resolver
+
+
